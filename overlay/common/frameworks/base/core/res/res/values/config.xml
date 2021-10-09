@@ -172,4 +172,7 @@
 
     <!-- Default component for QR code scanner -->
     <string name="config_defaultQrCodeComponent" translatable="false">org.lineageos.aperture/.QrScannerActivity</string>
+
+    <!-- The number of the max cached processes in the system. -->
+    <integer name="config_customizedMaxCachedProcesses">64</integer>
 </resources>
