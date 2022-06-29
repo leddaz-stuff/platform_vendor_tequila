@@ -53,8 +53,8 @@
         <!-- Keep up to 7 days of permission usage history -->
         <item>privacy/discrete_history_cutoff_millis=604800000</item>
         
-        <!-- Now Playing -->
-        <item>device_personalization_services/NowPlaying__ambient_music_index_manifest_17_09_02=201:https://storage.googleapis.com/music-iq-db/updatable_ytm_db/20220213-030023/manifest.json</item>
+        <!-- Now Playing (Pixel 2017+) -->
+        <item>device_personalization_services/NowPlaying__ambient_music_index_manifest_17_09_02=217:https://storage.googleapis.com/music-iq-db/updatable_ytm_db/20220626-030028/manifest.json</item>
 
         <!--
             Device Personalization Services (AiAi)
@@ -102,7 +102,7 @@
         <item>device_personalization_services/Overview__enable_proactive_hints=false</item>
         <item>device_personalization_services/Overview__enable_superpacks_pir_protocol=true</item>
         <item>device_personalization_services/Overview__min_lens_agsa_app_version=301084649</item>
-        
+
         <!-- Disable federated learning -->
         <item>device_personalization_services/OverviewFederatedAnalytics__enable_fa=false</item>
         <item>device_personalization_services/OverviewFederatedAnalytics__enable_min_training_interval=false</item>
