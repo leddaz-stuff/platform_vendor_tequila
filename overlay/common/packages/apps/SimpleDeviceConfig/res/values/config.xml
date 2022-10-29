@@ -54,7 +54,7 @@
         <item>privacy/discrete_history_cutoff_millis=604800000</item>
         
         <!-- Now Playing (Pixel 2017+) -->
-        <item>device_personalization_services/NowPlaying__ambient_music_index_manifest_17_09_02=217:https://storage.googleapis.com/music-iq-db/updatable_ytm_db/20220626-030028/manifest.json</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_index_manifest_17_09_02=231:https://storage.googleapis.com/music-iq-db/updatable_ytm_db/20221023-030056/manifest.json</item>
 
         <!--
             Device Personalization Services (AiAi)
